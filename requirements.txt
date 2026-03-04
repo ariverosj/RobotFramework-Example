@@ -1,4 +1,4 @@
 robotframework
-robotframework-requests
+robotframework-browser
 numpy
 pandas
