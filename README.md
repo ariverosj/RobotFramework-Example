@@ -4,7 +4,7 @@ Ziel ist die Erstellung eines Beispiel‑Testfalls im Robot Framework unter Verw
 
 # Installation
 <ul>
-<li> Python: Projekt version 3.15</li>
+<li> Python: Projekt version 3.14</li>
 <li> Node.js®</li>
 <li> IDEA: Empfoglen Pycharm</li>
 </ul>
@@ -15,7 +15,7 @@ py -m pip install -r requirements.txt
 ```
 <ul>
 <li>robotframework</li>
-<li>robotframework-requests</li>
+<li>robotframework-browser</li>
 <li>numpy</li>
 <li>pandas</li>
 </ul>
