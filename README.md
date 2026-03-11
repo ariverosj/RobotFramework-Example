@@ -6,7 +6,7 @@ Ziel ist die Erstellung eines Beispiel‑Testfalls im Robot Framework unter Verw
 <ul>
 <li> Python: Projekt version 3.14</li>
 <li> Node.js®</li>
-<li> IDEA: Empfoglen Pycharm</li>
+<li> IDEA: Empfohlen Pycharm</li>
 </ul>
 
 ## Python Libraries
